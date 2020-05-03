@@ -63,6 +63,3 @@ for t_itr in range(t):
             sys.stdout.write(str(x)+" ")
         if x==float('inf'):
             sys.stdout.write(str(-1)+" ")
-    print
-
-        
